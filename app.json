@@ -5,7 +5,7 @@
     "nodejs",
     "express"
   ],
-  "website": "http://www.jamesward.com",
-  "repository": "https://github.com/jamesward/hello-node_js-express.git",
+  "website": "https://github.com/jyotidabass",
+  "repository": "https://github.com/jyotidabass/Hello-node-deploy-heroku",
   "logo": "https://nodejs.org/images/logos/nodejs.png"
 }
